@@ -1,6 +1,6 @@
 {
   "name": "myapp",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "private": true,
   "scripts": {
     "start": "roadhog server",
@@ -25,6 +25,9 @@
     "gulp": "^3.9.1",
     "gulp-bump": "^3.1.0",
     "gulp-git": "^2.5.2",
+    "pre-commit": "^1.2.2",
+    "readline-sync": "^1.4.9",
+    "run-sequence": "^2.2.1",
     "redbox-react": "^1.4.3",
     "roadhog": "^2.0.0"
   }
